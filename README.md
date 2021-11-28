@@ -8,5 +8,5 @@
 ![server](https://img.shields.io/badge/On%20server-Yes-green)
   
 [![Bot](https://img.shields.io/badge/Bot-grey?style=flat-square&logo=telegram)](https://t.me/SupTestedbot)
-[![Chrysy|Laxxiza](https://img.shields.io/badge/Chrysy|Laxxiza-grey?style=flat-square&logo=telegram)](https://t.me/lunachrysy)
+[![Chrysy|Laxxiza](https://img.shields.io/badge/Laxxiza-grey?style=flat-square&logo=telegram)](https://t.me/lunachrysy)
 </header>
