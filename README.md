@@ -1,7 +1,7 @@
 <header>
 <h1 style="display: inline">EchoBot Suptech</h1>
 
-*ТЕСТОВОЕ*Бот для саптехсервиса
+*ТЕСТОВОЕ* Бот для саптехсервиса
   
 [![telegrafjs](https://img.shields.io/badge/telegraf.js-grey?style=flat-square&logo=telegram)](https://github.com/telegraf/telegraf)
 ![GitHub top language](https://img.shields.io/github/languages/top/Laxxiza/suptech_bot)
